@@ -7,7 +7,7 @@ li {
 }
 
 li a {
-	color: white;
+	color: black;
 	text-decoration: none;
 }
 
@@ -21,7 +21,7 @@ li a {
 }
 
 .navbar {
-	background-color: #4286f4;
+	background-color: #ff6666;
 	margin-left: 25px;
 	margin-right: 25px;
 	margin-top: 25px;
