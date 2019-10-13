@@ -6,7 +6,7 @@
 **Check out my website here : http://whateverrobertdoes.space**
 
 ## What is this?
-* A personal website, my previous one was garbage
+* A personal website, my previous one was like a shitty elevator got the job done with some music but not great
 
 ## Credit
 * This website was made by me, but redesigned by Kashotex
