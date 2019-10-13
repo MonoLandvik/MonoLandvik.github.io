@@ -1,0 +1,270 @@
+@font-face {
+    font-family: "Roboto Regular";
+    src: url("fonts/Roboto-Regular.ttf") format("truetype");
+}
+ 
+
+.clearbox {
+    position: absolute;
+    width: 1764px;
+    height: 484px;
+    left: -19px;
+    top: 180px;
+    
+    background: rgba(0, 0, 0, 0.6);
+
+}
+
+
+
+
+
+.logo {
+    position: absolute;
+    width: 279px;
+    height: 46px;
+    left: 3px;
+    top: 26px;
+    background: url(img/lol.png) 40%
+    
+}
+
+
+.designs {
+    position: absolute;
+    width: 318px;
+    height: 64px;
+    left: 1590px;
+    top: 6px;
+    background: url(img/ders.png) 40%
+    
+}
+
+.games {
+    position: absolute;
+    width: 270px;
+    height: 64px;
+    left: 1300px;
+    top: 6px;
+    background: url(img/games.png) 40%
+    
+}
+
+.linething {
+    position: absolute;
+    width: 8px;
+    height: 78px;
+    left: 1576px;
+    top: -3px;
+    
+    background: #2d4277;
+}
+
+.linething2 {
+    position: absolute;
+    width: 8px;
+    height: 78px;
+    left: 1288px;
+    top: -3px;
+    
+    background: #2d4277;
+}
+
+.linething3 {
+    position: absolute;
+    width: 8px;
+    height: 78px;
+    left: 608px;
+    top: -3px;
+    
+    background: #2d4277;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.logo321 {
+    position: absolute;
+    width: 736px;
+    height: 64px;
+    left: 10px;
+    top: 6px;
+    background: url(img/textlogo.PNG) 40%
+    
+}
+
+@font-face {
+    font-family: "The Bold Font";
+    src: url("fonts/theboldfont.ttf") format("truetype");
+}
+
+.boldboi {
+    position: absolute;
+    width: 298px;
+    height: 159px;
+    left: 104px;
+    top: -129px;
+    
+    font-family: "The Bold Font";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 54.9862px;
+    line-height: 55px;
+    display: flex;
+    align-items: flex-end;
+    
+    color: #FFFFFF;
+    }
+
+
+
+
+.mainhead {
+
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    left: 0px;
+    top: -5px;
+    
+    background:#4463B3;
+    box-shadow: 0px 5px 0px rgb(58, 84, 150)
+
+}
+
+.line {
+    position: absolute;
+width: 100%;
+height: 3px;
+
+top: 20px;
+
+background: #C4C4C4;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+html {
+    --purple: #505076;
+    --purple-light: #696991;
+    --purple-dark:#1a1d3d;
+    --text-shadow-col: #2b2b4d;
+    height:100%;
+}
+body {
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    margin:0;
+    background: url('img/bgr.png');
+    color:#fff;
+    font-family:"Imperfecta Regular";
+    font-size: 16px;
+    text-shadow: 1px 1px var(--text-shadow-col), -1px 1px var(--text-shadow-col), 1px -1px var(--text-shadow-col), -1px -1px var(--text-shadow-col), -1px 0px var(--text-shadow-col), 1px 0px var(--text-shadow-col), 0px -1px var(--text-shadow-col), 0px 1px var(--text-shadow-col);
+    text-rendering: optimizeSpeed; 
+    -webkit-font-smoothing: none;
+}
+::selection {
+    background:rgba(241, 183, 23, 0)
+}
+a {
+    color:#ddd;
+    background:#311fd3; 
+    text-decoration:none;
+    padding:0
+    
+
+
+}
+
+
+
+
+header {
+    color:#ddd;
+    background-attachment:fixed;
+    width:fit-content;
+    margin:0 auto;
+    font-size:40px;
+}
+hr {
+    border:0;
+    border-top:5px solid #2d4277;
+    margin:0;
+    padding:0;
+}
+hr.small {
+    margin: 5px;
+}
+
+.box {
+    position: relative;
+    left: calc(50% - 674px/2 + 1px);
+    top: 150px;
+    max-width:640px;
+    background:#4463B3;
+    border:solid 6px #3a5496;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding:15px;
+    margin:15px;
+    text-align:center
+    
+}
+#content {
+  /* don't center align because that screws with pixel fonts */
+  padding:center;
+}
+
+.homepage-content {
+    margin: 0 auto;
+    max-width: 90%;
+}
+aside ul  {
+list-style:none;
+margin:0;
+padding:0;
+text-align:left
+display: flex;
+justify-content: space-between;
+
+}
+
+
+.header-col {
+    flex:1;
+    line-height:1.4
+}
+
+
+
+aside li {
+    display: inline-block;
+}
+.footer {
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top:auto;
+    background:#4463B3;
+    box-sizing: border-box;
+    padding:8px;
+    width:100%;
+    color:rgb(255, 255, 255);
+    text-shadow:none;
+}
+.footer a {
+    color:white;
+}
+.header {
+    display:flex;
+    flex-flow:column;
+}
+
