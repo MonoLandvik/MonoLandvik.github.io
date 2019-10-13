@@ -1,0 +1,15 @@
+# Mono (Robert)'s Official [Website](http://whateverrobertdoes.space)
+
+
+![image](https://www.kashotex.net/Images/Capture.PNG)
+
+**Check out my website here : http://whateverrobertdoes.space**
+
+## What is this?
+* A personal website, my previous one was garbage
+
+## Credit
+* This website was made by me, but redesigned by Kashotex
+
+## Ideas?
+* If you have any ideas for my site, contact my discord `Sims 4 #6716`
